@@ -6,3 +6,5 @@ Media is remotely fetched with an instagram client and it's built for extensibil
 ASRatioLayoutSpec with randomized ratios are used to give the ASNetworkImageNodes a pre-defined size.
 
 This sample is based on the [CustomCollectionView](https://github.com/facebook/AsyncDisplayKit/tree/master/examples) demo project.
+
+![Screenshot](https://github.com/jonybur/asdk-networkimagecollection/raw/master/screenshots/screenshot1.png)

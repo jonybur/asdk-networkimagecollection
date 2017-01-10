@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB119F7D1E256FD200AAE64A /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB119F7C1E256FD200AAE64A /* Utilities.swift */; };
 		AB2FF74D1E253FDF001D5020 /* InstagramClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB2FF74C1E253FDF001D5020 /* InstagramClient.swift */; };
 		AB4CE6531E25172F008AFD4E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4CE6521E25172F008AFD4E /* AppDelegate.swift */; };
 		AB4CE6581E25172F008AFD4E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB4CE6561E25172F008AFD4E /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		1EAF703131534142929B050A /* Pods-Sample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sample.release.xcconfig"; path = "Pods/Target Support Files/Pods-Sample/Pods-Sample.release.xcconfig"; sourceTree = "<group>"; };
 		71C4C9DF5BD1F2834721E021 /* Pods-Sample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Sample/Pods-Sample.debug.xcconfig"; sourceTree = "<group>"; };
+		AB119F7C1E256FD200AAE64A /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		AB2FF74C1E253FDF001D5020 /* InstagramClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstagramClient.swift; sourceTree = "<group>"; };
 		AB4CE64F1E25172F008AFD4E /* Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB4CE6521E25172F008AFD4E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				AB8B8B181E251CD9009C8148 /* Picture.swift */,
 				AB4CE6521E25172F008AFD4E /* AppDelegate.swift */,
 				AB2FF74C1E253FDF001D5020 /* InstagramClient.swift */,
+				AB119F7C1E256FD200AAE64A /* Utilities.swift */,
 				AB4CE6561E25172F008AFD4E /* Main.storyboard */,
 				AB4CE6591E25172F008AFD4E /* Assets.xcassets */,
 				AB4CE65B1E25172F008AFD4E /* LaunchScreen.storyboard */,
@@ -226,6 +229,7 @@
 			files = (
 				AB8B8B171E251C34009C8148 /* MosaicCollectionViewLayout.swift in Sources */,
 				AB8B8B191E251CD9009C8148 /* Picture.swift in Sources */,
+				AB119F7D1E256FD200AAE64A /* Utilities.swift in Sources */,
 				AB8B8B151E251C34009C8148 /* BSWaterfallViewController.swift in Sources */,
 				AB8B8B161E251C34009C8148 /* BSWaterfallViewCell.swift in Sources */,
 				AB4CE6531E25172F008AFD4E /* AppDelegate.swift in Sources */,

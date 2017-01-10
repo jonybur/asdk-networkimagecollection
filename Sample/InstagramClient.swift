@@ -24,9 +24,6 @@ class InstagramClient{
                 if error == nil && data != nil {
                     let json = JSON(data: data!)["items"]
                     
-                    //self._sections.append([]);
-                    //let lastsection = self._sections.count - 1
-                    
                     var section : [Picture] = [Picture]();
                     
                     for i in 0...json.count{
@@ -37,9 +34,7 @@ class InstagramClient{
                     }
                     
                     fulfill(section);
-                    /*DispatchQueue.main.async {
-                     self._collectionNode.reloadData();
-                     }*/
+                    
                 } else {
                 
                     reject(error!);

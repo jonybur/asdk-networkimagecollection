@@ -7,4 +7,4 @@ ASRatioLayoutSpec with randomized ratios are used to give the ASNetworkImageNode
 
 This sample is based on the [CustomCollectionView](https://github.com/facebook/AsyncDisplayKit/tree/master/examples) demo project.
 
-![Screenshot](https://github.com/jonybur/asdk-networkimagecollection/raw/master/screenshots/screenshot1.png)
+![Screenshot](https://raw.githubusercontent.com/jonybur/asdk-networkimagecollection/master/screenshots/screenshot1.PNG)
